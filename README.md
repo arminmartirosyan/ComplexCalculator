@@ -1,5 +1,5 @@
-```md
 # ComplexCalculator
+
 ComplexCalculator is a Python-based application for implementing selected concepts of complex analysis, including complex number operations, visualization, and analytical tools.
 
 ## Features
@@ -21,3 +21,10 @@ ComplexCalculator is a Python-based application for implementing selected concep
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Run
+
+```bash
+python main.py
+```
