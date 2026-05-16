@@ -16,6 +16,7 @@ ComplexCalculator is a Python-based application for implementing selected concep
 - SymPy
 - Matplotlib
 - Tkinter
+- cmath
 
 ## Installation
 
